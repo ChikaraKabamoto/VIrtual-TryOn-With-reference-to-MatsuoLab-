@@ -7,5 +7,5 @@
 ## 2.perceptual-tryon.ipynb
 高周波成分に焦点を当てた知覚損失を設けたものです。(近日中にアップロード予定)
 
-## 3.PatchGAN-Tryon.ipynb
+## 3.PatchGAN-ryon.ipynb
 DiscriminatorにPatchGANの構造を採用したものです。(近日中にアップロード予定)
