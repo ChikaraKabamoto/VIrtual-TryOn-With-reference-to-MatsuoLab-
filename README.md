@@ -7,4 +7,4 @@ It imitates the research of Matsuo Lab.
 It provides sensory loss focusing on high frequency components.
 
 ## 3.PatchGAN-tryon.ipynb
-It adopts the structure of PatchGAN for Discriminator. (Upload coming soon)
+It adopts the structure of PatchGAN for Discriminator. 
