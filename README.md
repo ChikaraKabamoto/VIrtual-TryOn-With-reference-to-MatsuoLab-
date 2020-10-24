@@ -1,11 +1,10 @@
 
-# 仮想試着のプログラムを上げていきます
-
+# Virtual-Tryon program
 ## 1.basic-tryon.ipynb
-松尾研の研究を模倣したものです。
+It imitates the research of Matsuo Lab.
 
 ## 2.perceptual-tryon.ipynb
-高周波成分に焦点を当てた知覚損失を設けたものです。
+It provides sensory loss focusing on high frequency components.
 
 ## 3.PatchGAN-tryon.ipynb
-DiscriminatorにPatchGANの構造を採用したものです。(近日中にアップロード予定)
+It adopts the structure of PatchGAN for Discriminator. (Upload coming soon)
